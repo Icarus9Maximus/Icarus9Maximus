@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Icarus9Maximus
-- 👀 I’m interested in HTML/CSS, JavaScript, Python, SQL, MongoDB, Web Development and Machine Learning.
-- 🌱 I’m currently learning  JavaScript.
+- 👀 I’m interested in HTML/CSS, JavaScript, Python, SQL, Web Development and Machine Learning.
+- 🌱 I’m currently learning  Node.JS and Express.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach out by sending an email to ranapeboikano9@gmail.com
 - 😄 Pronouns: ...
